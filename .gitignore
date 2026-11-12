@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# 内置 Gradle 发行包（约 130MB，按需放置）
+gradle-local/*.zip
+
+# IDE
+.idea/
+*.iml
+.DS_Store
